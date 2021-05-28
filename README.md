@@ -9,10 +9,10 @@ Here, I outline concepts from major projects I've worked on and vizzes I've crea
 
 I'm not one to be obsessed with data, but I have a confession to make: I enjoy reading well-researched lit concerning the potential global baby bust. The interest is personal as I'm a legally single woman with no intention of marrying or having children. I wondered, then, how others' views may differ based on geography, sex, marital status, and sexual orientation. So I downloaded some pre-cleaned Pew data (ATP Wave 50) and plopped it into Tableau. It's not going to inspire anyone to do anything, but it makes great dinner conversation if your friends are nerds. <br><br>
 
-**Highway Safety: Fatal Accidents and Characteristics 2014-2019** <br>
-*Data visualization x Tableau*
+**Highway Safety: Accidents and Characteristics 2016-2019** <br>
+*Data visualization x [Tableau](https://public.tableau.com/views/HighwaySafetyAccidentsandCharacteristics2016-2019/NationwideMap?:language=en-US&:display_count=n&:origin=viz_share_link)*
 
-When I got my start as a Transportation Analyst consultant, I worked with highway safety data. For a time I knew the FARS interface like the back of my hand. I provided data visualizations that went into Highway Safety Plans in states such as West Virginia, Virgnia, Ohio, and Florida. I'm sure I'm forgetting several. Anyway, check this out if you want to be radicalized into #VisionZero. <br><br>
+When I got my start as a Transportation Analyst consultant, I worked with highway safety data. For a time I knew the FARS interface like the back of my hand. I provided data visualizations that went into Highway Safety Plans in states such as West Virginia, Virgnia, Ohio, and Florida. I'm sure I'm forgetting several. Anyway, check this out if you want to be radicalized into #VisionZero. I plan to continually update this with more drilldowns and contributing factors (such as impaired driving, drowsiness, etc.).<br><br>
 
 **My Grown-Up Gap Year in a Van** <br>
 *Data visualization x Tableau*
