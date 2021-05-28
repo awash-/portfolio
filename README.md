@@ -7,7 +7,7 @@ Here, I outline concepts from major projects I've worked on and vizzes I've crea
 **Love & Money: Views on Financial Stability and Commitment Prior to Marriage** <br>
 *Data visualization x [Tableau](https://public.tableau.com/views/MaritalStatusViewsonFamily/LoveMoney?:language=en-US&:display_count=n&:origin=viz_share_link)*
 
-I'm not one to be obsessed with data, but I have a confession to make: I enjoy reading well-researched lit concerning the potential global baby bust. In my reading, I wondered how views may differ based on geography, sex, marital status, and sexual orientation. So I downloaded some pre-cleaned Pew data (ATP Wave 50) and plopped it into Tableau. It's not going to inspire anyone to do anything, but it makes great dinner conversation if your friends are nerds. <br><br>
+I'm not one to be obsessed with data, but I have a confession to make: I enjoy reading well-researched lit concerning the potential global baby bust. In my reading, I wondered how views may differ based on geography, sex, marital status, and sexual orientation. So I downloaded some pre-cleaned Pew data (ATP Wave 50) and plopped it into Tableau. It makes great dinner conversation if your friends are nerds. <br><br>
 
 **Highway Safety: Accidents and Characteristics 2016-2019** <br>
 *Data visualization x [Tableau](https://public.tableau.com/views/HighwaySafetyAccidentsandCharacteristics2016-2019/NationwideMap?:language=en-US&:display_count=n&:origin=viz_share_link)*
