@@ -14,7 +14,7 @@ I'm not one to be obsessed with data, but I have a confession to make: I enjoy r
 
 When I got my start as a Transportation Analyst consultant, I worked with highway safety data. For a time I knew the FARS interface like the back of my hand. I provided data visualizations that went into Highway Safety Plans in states such as West Virginia, Virgnia, Ohio, and Florida. I'm sure I'm forgetting several. Anyway, check this out if you want to be radicalized into #VisionZero. I plan to continually update this with more drilldowns and contributing factors (such as impaired driving, drowsiness, etc.).<br><br>
 
-**My Grown-Up Gap Year in a Van** <br>
+**My Grown-Up Gap Year in a Van** *Coming soon!* <br>
 *Data visualization x Tableau*
 
 Life happened a lot in 2020, so I decided to move into a van and begin freelancing full-time. It's been an incredibly dope experience. That's it, that's the sample viz. <br><br>
