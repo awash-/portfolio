@@ -24,10 +24,10 @@ Life happened a lot in 2020, so I decided to move into a van and begin freelanci
 
 As a freelance geospatial analyst, I got to leverage PostgresSQL to take my clients from disparate spreadsheets to a full blown database! This client was looking for a scalable way to store their growing data, that would also be compatible with ArcGIS Online and ArcGIS Pro. Postgres was my immediate go-to: open-source, assistive GUI (pgadmin), and PostGIS are critical to this project. Ultimately I want to empower the client to be able to run their own small queries (hence the importance of pgadmin) and we are actively researching cloud hosting options. <br><br>
 
-**Workflow: How I deal with a bunch of data** <br>
+**Workflow: How I deal with a bunch of data** *Coming soon!* <br>
 *Walkthrough x Python (via Markdown)*
 
-When I was a wee consultant, I got my grubby little paws on a really cool project in a southern state. The state Department of Transportation was looking to update their truck stops in accordance with a state law. It was my first time working with so much data (which seems so small looking back!) and I loved developing the process of cleaning and processing the data.
+When I was a wee consultant, I got my little paws on a really cool project in a southern state. The state Department of Transportation was looking to update their truck stops in accordance with a state law. It was my first time working with so much data (which seems so small looking back!) and I loved developing the process of cleaning and processing the data.
 
 ## Other Skills
 * Highly Proficient:
