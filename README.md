@@ -5,7 +5,7 @@ Here, I outline concepts from major projects I've worked on and vizzes I've crea
 
 ## Projects Showcased
 **Love & Money: Views on Financial Stability and Commitment Prior to Marriage** <br>
-*Data visualization x Tableau*
+*Data visualization x [Tableau](https://public.tableau.com/views/MaritalStatusViewsonFamily/LoveMoney?:language=en-US&:display_count=n&:origin=viz_share_link)*
 
 I'm not one to be obsessed with data, but I have a confession to make: I enjoy reading well-researched lit concerning the potential global baby bust. The interest is personal as I'm a legally single woman with no intention of marrying or having children. I wondered, then, how others' views may differ based on geography, sex, marital status, and sexual orientation. So I downloaded some pre-cleaned Pew data (ATP Wave 50) and plopped it into Tableau. It's not going to inspire anyone to do anything, but it makes great dinner conversation if your friends are nerds. <br><br>
 
