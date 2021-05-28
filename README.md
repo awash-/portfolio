@@ -1,7 +1,9 @@
 # Alex's Data Visualization + Analytics Portfolio
 I really should keep a portfolio ✨ online ✨, so here she is!
 
-Here, I outline concepts from major projects I've worked on and vizzes I've created. Much of my work is unavailable to show detailed methodology for, but this repo is just for illustrative purposes.
+Here, I outline concepts from major projects I've worked on and vizzes I've created. Much of my work is unavailable to show detailed methodology for, but this repo is just for illustrative purposes. This is a living portfolio, so visualizations and walkthroughs are subject to change.
+
+*Last update: May 28, 2021*
 
 ## Projects Showcased
 **Love & Money: Views on Financial Stability and Commitment Prior to Marriage** <br>
@@ -12,7 +14,7 @@ I'm not one to be obsessed with data, but I have a confession to make: I enjoy r
 **Highway Safety: Accidents and Characteristics 2016-2019** <br>
 *Data visualization x [Tableau](https://public.tableau.com/views/HighwaySafetyAccidentsandCharacteristics2016-2019/NationwideMap?:language=en-US&:display_count=n&:origin=viz_share_link)*
 
-When I got my start as a Transportation Analyst consultant, I worked with highway safety data. For a time I knew the FARS interface like the back of my hand. I provided data visualizations that went into Highway Safety Plans in states such as West Virginia, Virgnia, Ohio, and Florida. I'm sure I'm forgetting several. Anyway, check this out if you want to be radicalized into #VisionZero. I plan to continually update this with more drilldowns and contributing factors (such as impaired driving, drowsiness, etc.).<br><br>
+When I got my start as a Transportation Analyst consultant, I worked with highway safety data. For a time I knew the FARS interface like the back of my hand. I provided data visualizations that went into Highway Safety Plans in states such as West Virginia, Virgnia, Ohio, and Florida. I'm sure I'm forgetting several. Anyway, check this out if you want to be radicalized into #VisionZero. <br><br>
 
 **My Grown-Up Gap Year in a Van** *Coming soon!* <br>
 *Data visualization x Tableau*
@@ -41,6 +43,6 @@ When I was a wee consultant, I got my little paws on a really cool project in a 
   * Google BigQuery
   * Linux
   * Git
-* In Progress:
+* Not yet:
   * Javascript
   * AWS
