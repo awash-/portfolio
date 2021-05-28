@@ -27,19 +27,20 @@ As a freelance geospatial analyst, I got to leverage PostgresSQL to take my clie
 **Workflow: How I deal with a bunch of data** <br>
 *Walkthrough x Python (via Markdown)*
 
-When I was a wee consultant, I got my grubby little paws on a really cool project in a southern state. The state Department of Transportation was looking to update their truck stops 
+When I was a wee consultant, I got my grubby little paws on a really cool project in a southern state. The state Department of Transportation was looking to update their truck stops in accordance with a state law. It was my first time working with so much data (which seems so small looking back!) and I loved developing the process of cleaning and processing the data.
 
 ## Other Skills
-* Highly Proficient
+* Highly Proficient:
   * ArcGIS
   * QGIS
   * Excel (is that... is that a skill?)
   * PowerBI
   * Google Data Studio
-* Getting it Together
+* Getting it Together:
   * R
   * Google BigQuery
   * Linux
   * Git
-* In Progress
+* In Progress:
   * Javascript
+  * AWS
