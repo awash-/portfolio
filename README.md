@@ -3,7 +3,7 @@ I really should keep a portfolio ✨ online ✨, so here she is!
 
 Here, I outline concepts from major projects I've worked on and vizzes I've created. Much of my work is unavailable to show detailed methodology for, but this repo is just for illustrative purposes. This is a living portfolio, so visualizations and walkthroughs are subject to change.
 
-*Last update: May 28, 2021*
+*Last update: January 12, 2022*
 
 ## Projects Showcased
 **Love & Money: Views on Financial Stability and Commitment Prior to Marriage** <br>
