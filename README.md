@@ -40,7 +40,8 @@ When I was a wee consultant, I got my little paws on a really cool project in a 
   * Google Data Studio
 * Getting it Together:
   * R
-  * Google BigQuery
+  * Snowflake
+  * Matillion
   * Linux
   * Git
 * Not yet:
