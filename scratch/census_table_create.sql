@@ -1,0 +1,6 @@
+CREATE TABLE national_population_2020 (
+    GEO_ID VARCHAR(15),
+    NAME VARCHAR(50),
+    P1_001_TOTAL INT,
+    P1_002_ONE 
+)
