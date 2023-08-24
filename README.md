@@ -15,11 +15,6 @@ When I got my start as a Transportation Analyst consultant, I worked with highwa
 
 I'm not one to be obsessed with data, but I have a confession to make: I enjoy reading well-researched lit concerning the potential global baby bust. In my reading, I wondered how views may differ based on geography, sex, marital status, and sexual orientation. So I downloaded some pre-cleaned Pew data (ATP Wave 50) and plopped it into Tableau. It makes great dinner conversation if your friends are nerds. <br><br>
 
-**My Grown-Up Gap Year in a Van** *Coming soon!* <br>
-*Data visualization x Tableau*
-
-Life happened a lot in 2020, so I decided to move into a van and begin freelancing full-time. It's been an incredibly dope experience. That's it, that's the sample viz. <br><br>
-
 **Workflow: Wrangling CSVs into Postgres** <br>
 *Walkthrough x SQL (via Markdown)*
 
@@ -32,9 +27,7 @@ When I was a wee consultant, I got my little paws on a really cool project in a 
 
 ## Other Skills
 * Highly Proficient:
-  * ArcGIS
-  * QGIS
-  * Excel (is that... is that a skill?)
+  * GIS (ESRI, Q)
   * PowerBI
   * Google Data Studio
 * Getting it Together:
@@ -43,6 +36,3 @@ When I was a wee consultant, I got my little paws on a really cool project in a 
   * Matillion
   * Linux
   * Git
-* Not yet:
-  * Javascript
-  * AWS
