@@ -3,18 +3,17 @@ I really should keep a portfolio ✨ online ✨, so here she is!
 
 Here, I outline concepts from major projects I've worked on and vizzes I've created. Much of my work is unavailable to show detailed methodology for, but this repo is just for illustrative purposes. This is a living portfolio, so visualizations and walkthroughs are subject to change.
 
-*Last update: January 12, 2022*
-
+*Last update: August 23, 2023*
 ## Projects Showcased
+**Highway Safety: Roadway Fatalities 2016-2020** <br>
+*Data visualization x [Tableau](https://public.tableau.com/views/HighwaySafetyRoadwayFatalities2016-2020/RoadwayFatalities?:language=en-US&:display_count=n&:origin=viz_share_link)*
+
+When I got my start as a Transportation Analyst consultant, I worked with highway safety data. For a time I knew the FARS interface like the back of my hand. I provided data visualizations that went into Highway Safety Plans in states such as West Virginia, Virgnia, Ohio, and Florida. I'm sure I'm forgetting several. Anyway, check this out if you want to be radicalized into #VisionZero. It's a minimalist dashboard that I'd like to build on over time, but the whole aim is to drive home how many people lose their lives doing something that we consider so mundane.<br><br>
+
 **Love & Money: Views on Financial Stability and Commitment Prior to Marriage** <br>
 *Data visualization x [Tableau](https://public.tableau.com/views/MaritalStatusViewsonFamily/LoveMoney?:language=en-US&:display_count=n&:origin=viz_share_link)*
 
 I'm not one to be obsessed with data, but I have a confession to make: I enjoy reading well-researched lit concerning the potential global baby bust. In my reading, I wondered how views may differ based on geography, sex, marital status, and sexual orientation. So I downloaded some pre-cleaned Pew data (ATP Wave 50) and plopped it into Tableau. It makes great dinner conversation if your friends are nerds. <br><br>
-
-**Highway Safety: Accidents and Characteristics 2016-2019** <br>
-*Data visualization x [Tableau](https://public.tableau.com/views/HighwaySafetyAccidentsandCharacteristics2016-2019/NationwideMap?:language=en-US&:display_count=n&:origin=viz_share_link)*
-
-When I got my start as a Transportation Analyst consultant, I worked with highway safety data. For a time I knew the FARS interface like the back of my hand. I provided data visualizations that went into Highway Safety Plans in states such as West Virginia, Virgnia, Ohio, and Florida. I'm sure I'm forgetting several. Anyway, check this out if you want to be radicalized into #VisionZero. <br><br>
 
 **My Grown-Up Gap Year in a Van** *Coming soon!* <br>
 *Data visualization x Tableau*
