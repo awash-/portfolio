@@ -1,5 +1,5 @@
 -- Comprehensive NYC Traffic Collision Analysis (2014-2017)
--- PLEASE NOTE: This query was collated by Claude.ai, using pre-existing queries in this repo. Query was tested and runs as expected.
+-- PLEASE NOTE: This query was collated by Claude.ai, using pre-existing queries in this repo. Query was tested and runs as expected. Some subqueries were edited by Claude.ai for conciseness and in a real-life situation, I would spend more time reviewing the code to ensure that it's efficient (as AI can often add inefficiencies).
 -- Prompt: Can you combine these queries into one query?
 
 WITH 
